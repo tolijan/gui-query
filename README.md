@@ -12,4 +12,5 @@
 ##Configuration:
 1. Configure your DB connection details in SampleLogin.java class
 2. Enter your MySQL Query in the QueryGUI.java class
+3. Make sure you add all libraries 
 
